@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 mergeäminen
+=======
+mergeäminen
+>>>>>>> 15e9ead268b4967c3c3814267f82a7599d669585
