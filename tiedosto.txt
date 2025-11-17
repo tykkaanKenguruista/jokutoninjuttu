@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tämä on eri muutos haarassa 2.
+=======
+Tämä on muutettu versio haarassa 1.
+>>>>>>> haara1
